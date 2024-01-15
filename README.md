@@ -1,1 +1,1 @@
-# Genereative AI
+# Generative AI

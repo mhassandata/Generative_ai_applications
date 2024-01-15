@@ -1,6 +1,10 @@
 import streamlit as st
 from langchain.prompts import PromptTemplate
 from langchain.llms import CTransformers
+import logging
+
+# Add this to your script to configure logging
+logging.basicConfig(level=logging.ERROR)
 
 ## Function To get response from LLAma 2 model
 
